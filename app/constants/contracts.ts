@@ -6,7 +6,7 @@ type Contracts = {
 export const contracts: { [chainID: number]: Contracts } = {
   
   22999: {
-    moonpinContract: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+    moonpinContract: "0xB11011307e0F3c805387c10aa69F874244b1bec3",
     moonboardContract: "",
   },
   11155111: {
